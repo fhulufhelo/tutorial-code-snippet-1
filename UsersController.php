@@ -23,7 +23,7 @@ class UsersController extends Controller
     		# proceed this another
     	} else {
 
-    		# Do this
+    		# Otherwise do this
     	}
     
     }
